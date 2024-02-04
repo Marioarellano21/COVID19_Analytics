@@ -44,6 +44,6 @@ Para la realización del proyecto se usaron las siguientes herramientas:
 <p align="justify">Esto sugiere que tanto la densidad de la población y la población femenina son relevantes en la incidencia de la letalidad del Covid19.</p>
 
 ## Authors
-Pedro
-David
-Mario
+<p align="justify">Pedro</p>
+<p align="justify">David</p>
+<p align="justify">Mario</p>
