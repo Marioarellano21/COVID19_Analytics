@@ -1,4 +1,4 @@
-# ** COVID19_Analytics** :chart_with_downwards_trend: :bar_chart:
+# **COVID19_Analytics** :chart_with_downwards_trend: :bar_chart:
 
 ## **Problemática** 
 
