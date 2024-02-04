@@ -41,7 +41,7 @@ Para la realización del proyecto se usaron las siguientes herramientas:
 
 <p align="justify"> Por ultimo a pesar de las fluctuaciones posteriores, resalta la eficacia de las medidas aplicadas en Febrero 22 para mitigar la propagación.</p>
 
-### ** Pregunta 3¿Cuál es la evolución del índice de letalidad del Covid-19 en el país, comparado con los países con los índices históricos más elevados?**
+### **Pregunta 3¿Cuál es la evolución del índice de letalidad del Covid-19 en el país, comparado con los países con los índices históricos más elevados?**
 
 ![image](https://github.com/Marioarellano21/COVID19_Analytics/assets/146877817/80ecfa03-bd5c-4015-b86f-e967d6c981ca)
 
