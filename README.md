@@ -18,6 +18,7 @@ Para la realización del proyecto se usaron las siguientes herramientas:
     4. NumPy.
     5. Matplotlib para la visualización de los insights.
     6. Sklearn.
+    7. Dos archivos .csv para nuestro quinto insght estan cargados dentro del .rar llamado datos_csv
 
 ## **Insishgts** 
 
@@ -59,4 +60,14 @@ Para la realización del proyecto se usaron las siguientes herramientas:
 <p align="justify">Según nuestro análisis de importancia, la densidad de la población destaca por encima de las demas con un 25,18% seguida de población femenina con un 22.45%.</p>
 
 <p align="justify">Esto sugiere que tanto la densidad de la población y la población femenina son relevantes en la incidencia de la letalidad del Covid19.</p>
+
+### **Pregunta 5 El Covid-19 en los países según el desarrollo socio-económico. Comparativa**
+![image](https://github.com/Marioarellano21/COVID19_Analytics/assets/146877817/efd1b762-c8fd-4fe2-9161-837c643c8571)
+
+
+### **Conclusión**
+
+<p align="justify">Podemos observar que a pesar de que hay países con alto nivel de desarrollo socio-económico como el caso de Italia, Mexico, Barbuda, etc. No implica que la tasa de mortalidad sea baja, sin embargo un caso distinto ocurre con nuestro  caso de estudio que es USA, donde podemos ver que su indice de desarrollo socio-económico es alto y su tasa de mortalidad  es baja, esto indica que supieron manejar bien el control del virus en la población ya infectada.</p>
+
+
 
